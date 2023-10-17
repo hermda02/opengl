@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hello_window.dir/src/main.cpp.o -o hello_window  /home/daniher/libraries/opengl_dev/glfw-3.0.4/src/src/libglfw3.a /usr/lib/x86_64-linux-gnu/libGL.so /home/daniher/libraries/opengl_dev/glfw-3.0.4/src/src/libglfw3.a -lGL -lGLU -lX11 -lXrandr -lXxf86vm -lXi -lm 

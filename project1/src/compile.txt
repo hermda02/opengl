@@ -1,0 +1,1 @@
+g++ main.cpp -o firstOpenGlApp -lglfw3 -lglut -lGLU -lGL -lX11 -lXrandr -lXxf86vm -lXi
